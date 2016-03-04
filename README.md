@@ -29,6 +29,12 @@ PINOUT (TFT ... Arduino Nano)[dupont cable color]:
 </pre>
 
 
-NOTE: arduino nano pins D8 and D9 are REVERSED between the adafruit library and this link:<br>
+NOTE: 
+
+arduino nano pins D8 and D9 are REVERSED between the adafruit library and this link:<br>
 http://blog.simtronyx.de/en/a-1-8-inch-tft-color-display-hy-1-8-spi-and-an-arduino/
 
+
+REFERENCE:
+
+http://www.tweaking4all.com/hardware/arduino/sainsmart-arduino-color-display/
