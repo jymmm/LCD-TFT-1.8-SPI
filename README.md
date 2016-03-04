@@ -6,6 +6,7 @@
 This is in reference to the cheap chinese 1.8" TFT LCD SPI with SD CARDSLOT 128*160 clones off
 aliexpress/ebay and use with Arduino IDE, Arduino Nano, and the 'Adafruit ST7735 Library' as 'hardware spi'.
 
+<pre>
 PINOUT (TFT ... Arduino Nano)[dupont cable color]:
 --------------------------------------------------
 01 GND ..... GND [BLK]
@@ -25,9 +26,9 @@ PINOUT (TFT ... Arduino Nano)[dupont cable color]:
 15 LED(+) .... +5V or +3.3 VDC (LED backlight VCC) [WHT]
 16 LED(-) .... GND (LED backlight GND) [GRY]
 --------------------------------------------------
+</pre>
 
 
-
-NOTE: arduino nano pins D8 and D9 are REVERSED between the adafruit library and this link:
+NOTE: arduino nano pins D8 and D9 are REVERSED between the adafruit library and this link:<br>
 http://blog.simtronyx.de/en/a-1-8-inch-tft-color-display-hy-1-8-spi-and-an-arduino/
 
